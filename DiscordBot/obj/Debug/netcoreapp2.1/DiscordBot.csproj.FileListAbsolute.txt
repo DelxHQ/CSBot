@@ -1,0 +1,10 @@
+C:\Users\delxh\Desktop\xb1dev\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\DiscordBot.deps.json
+C:\Users\delxh\Desktop\xb1dev\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\DiscordBot.runtimeconfig.json
+C:\Users\delxh\Desktop\xb1dev\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\DiscordBot.runtimeconfig.dev.json
+C:\Users\delxh\Desktop\xb1dev\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\DiscordBot.dll
+C:\Users\delxh\Desktop\xb1dev\ConsoleApp2\ConsoleApp2\bin\Debug\netcoreapp2.1\DiscordBot.pdb
+C:\Users\delxh\Desktop\xb1dev\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\DiscordBot.csproj.CoreCompileInputs.cache
+C:\Users\delxh\Desktop\xb1dev\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\DiscordBot.AssemblyInfoInputs.cache
+C:\Users\delxh\Desktop\xb1dev\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\DiscordBot.AssemblyInfo.cs
+C:\Users\delxh\Desktop\xb1dev\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\DiscordBot.dll
+C:\Users\delxh\Desktop\xb1dev\ConsoleApp2\ConsoleApp2\obj\Debug\netcoreapp2.1\DiscordBot.pdb
